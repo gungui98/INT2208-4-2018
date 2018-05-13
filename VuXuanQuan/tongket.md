@@ -18,3 +18,8 @@ Chấm điềm chéo:
 -Nguyễn Anh Phương
 -Điểm chấm: 9
 -Nhận xét: Hoàn thành cơ bản, tương đối các bài học, khóa học cần thiết, tham gia đầy đủ các btap nhóm
+-Người chấm: Nguyễn Văn Phi.
+
+-Điểm: 8
+
+-Nhận xét:đã tiến hành làm BTL, báo cáo cho BTL. đã có Dẫn chứng phần tự học .
